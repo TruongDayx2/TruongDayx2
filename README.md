@@ -39,7 +39,7 @@
     <td>
 <!--       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TruongDayx2&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="TruongDayx2" width="100%"/>
       <img src="https://github-readme-stats.vercel.app/api?username=TruongDayx2&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="TruongDayx2" width="100%"/> -->
-       <a href="#"><img alt="#" src="https://github-readme-stats.vercel.app/api?username=TruongDayx2r&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" /></a>
+       <a href="#"><img alt="#" src="https://github-readme-stats.vercel.app/api?username=TruongDayx2&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" /></a>
     <a href="#"><img alt="#" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TruongDayx2&langs_count=8&count_private=true&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" /></a>
     </td>
     <td>
