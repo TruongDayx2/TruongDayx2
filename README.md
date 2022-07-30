@@ -7,7 +7,7 @@
 
 - ✍ I'm a student of: [Posts and Telecommunications Institute of Technology](https://ptithcm.edu.vn/) (PTIT).
 
-- 🌱 I’m currently learning ** Full Stack **
+- 🌱 I’m currently learning ** Full Stack  **
 
 
 ## 📫 How to reach me:
